@@ -1,0 +1,7 @@
+*.cache
+*.dll
+*.env
+*.exe
+*.log
+**/bin
+sk.py
