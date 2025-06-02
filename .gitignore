@@ -5,3 +5,4 @@
 *.log
 **/bin
 sk.py
+.env
